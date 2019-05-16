@@ -12,5 +12,6 @@ public static void main(String[] args) {
 	System.out.println("Salary is"+sal);
 	String email="albertfernandez48@gmail.com";
 	System.out.println("Email Id is"+email);
+	System.out.println("Employee info completed");
 }
 }
